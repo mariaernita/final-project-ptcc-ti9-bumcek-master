@@ -1,0 +1,28 @@
+Kamus data :
+
+petugas
+nip int(15) (primary key)
+nama varchar(25)
+alamat varchar(100)
+tanggal_lahir date
+
+anggota
+no_anggota int(15) (primary key)
+nama varchar(25)
+jk varchar(10)
+alamat varchar(100)
+pekerjaan varchar(20)
+tanggal_lahir date
+
+buku
+isbn int(20) (prmary key)
+judul varchar(25)
+pengarang varchar(30)
+penerbit varchar(20)
+
+pengunjung
+id_pengunjung int(10) (primary key)
+nama varchar(25)
+alamat varchar(100)
+jk varchar(10)
+pekerjaan varchar(20)

@@ -1,0 +1,8 @@
+--> buat database
+--> buat desain tampilan
+--> buat html
+--> buat php
+
+--> push ke github
+--> pasang di docker
+--> push ke dockerhub

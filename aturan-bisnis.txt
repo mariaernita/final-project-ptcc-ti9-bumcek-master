@@ -1,0 +1,14 @@
+Sistem informasi Perpustakaan
+
+Ada pengunjung umum dan anggota. Pengunjung umum hanya bisa membaca buku di perpus. Anggota boleh meminjam buku. Peminjaman maksimal 2 buah buku. Pengunjung umum maupun anggota harus mengisi form kunjungan ketika akan memasuku perpustakaan. Pengunjung umum dan anggota mempunyai form yang berbeda. Anggota bisa mengisikan nomor anggota saja pada form untuk melengkapi data-data yang ada. Sedangkan pengunjung umum harus mengisi semuanya.
+
+Pengunjung umum yang ingin menjadi anggota harus memberikan berkas administrasi berupa fc identitas (ktp untuk umum/ktm untuk mahasiswa) dan menjalani pengambilan foto di perpustakaan. Data anggota baru akan diinputkan oleh petugas administrasi. Petugas administrasi akan memberikan kartu anggota jika sudah jadi. 
+
+Anggota yang ingin meminjam buku, harus menggunakan kartu anggota yang akan digunakan petugas layanan untuk melakukan penginputan data peminjam. 
+
+Anggota yang ingin mengembalikan buku, maksimal 1 minggu setelah tanggal peminjaman. Jika tidak maka akan dikenakan denda sebesar 100 rupiah per buku per hari. Peminjam yang mengembalikan buku, menyerahkan kartu anggota ke petugas layanan untuk dilakukan pengecekan buku yang dipinjam dan mencatat data pengembalian.
+
+Pengunjung umum maupun anggota, bisa mencari buku yang diinginkan pada sistem informasi perpustakaan berdasarkan judul atau nama pengarangnya. Buku dengan judul atau nama pengarang yang sesuai akan ditampilkan pada halaman hasil pencarian. Buku-buku yang ditampilkan hanya judul dan nama pengarangnya saja. Untuk melihat informasi lebih detail, bisa dilakukan dengan meng-klik tombol detail. 
+
+Petugas layanan bisa menambah, menghapus dan mengupdate data-data buku yang ada pada sistem informasi perpustakaan.
+
